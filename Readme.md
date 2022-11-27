@@ -1,26 +1,17 @@
 # Name of the Project
+Speed Detector Program
 *****
 ### Author : Name Date
+MARK SANGIRIAKI, 27,11,2022
 ****
 ## Project Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It is a program that takes as input the speed of a car e.g 80Km/hr. If the speed is less than 70, it prints “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it gives the driver one demerit point and print the total number of demerit points.
 ******
 
 ## SCREENSHOTS
-- link 1
-- link 2
-
-
+//- link 1
+//- link 2
 ********
-## SetUp Instruction
-### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
-* Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
-
 
 ### Getting Files
 * Fork the repo
@@ -40,24 +31,13 @@ To install all requirements
 > $ python3 manage.py runserver
 Then run server with the above command
 *****
-## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
-*****
-## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
-*****
 ## Technologies Used
 1. HTML
-2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+2. CSS
+3. JavaScript
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email : markkantet@gmail.com
 *****
 ## [License](LICENSE)
 MIT License

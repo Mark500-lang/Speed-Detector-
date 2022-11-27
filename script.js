@@ -18,7 +18,7 @@ function speedDetector(){
         (velocity >= 121 && velocity <= 125) ? 12 : 
         (velocity >= 126 && velocity <= 130) ? 13 : 0
     )
-        
+     
         {
                 case 1 :points = "OK";break;
                 case 2 :points = "Points: 1";break;
