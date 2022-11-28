@@ -41,4 +41,4 @@ Then run server with the above command
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2022 Mark Sangiriaki

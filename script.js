@@ -36,7 +36,7 @@ function speedDetector(){
                 case 0 :points = "License suspended";break;
         }
 
-//printing the 
+//printing the results
 document.getElementById('detectorResponse').value = points;   
 
 
